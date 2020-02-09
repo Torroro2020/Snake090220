@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Haki_17\\Documents\\C#\\Snake090220\\Snake090220\\Snake090220.csproj": {}
+    "C:\\Users\\Haki_17\\Documents\\си\\Snake090220\\Snake090220.git\\Snake090220\\Snake090220\\Snake090220.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Haki_17\\Documents\\C#\\Snake090220\\Snake090220\\Snake090220.csproj": {
+    "C:\\Users\\Haki_17\\Documents\\си\\Snake090220\\Snake090220.git\\Snake090220\\Snake090220\\Snake090220.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Haki_17\\Documents\\C#\\Snake090220\\Snake090220\\Snake090220.csproj",
+        "projectUniqueName": "C:\\Users\\Haki_17\\Documents\\си\\Snake090220\\Snake090220.git\\Snake090220\\Snake090220\\Snake090220.csproj",
         "projectName": "Snake090220",
-        "projectPath": "C:\\Users\\Haki_17\\Documents\\C#\\Snake090220\\Snake090220\\Snake090220.csproj",
+        "projectPath": "C:\\Users\\Haki_17\\Documents\\си\\Snake090220\\Snake090220.git\\Snake090220\\Snake090220\\Snake090220.csproj",
         "packagesPath": "C:\\Users\\Haki_17\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Haki_17\\Documents\\C#\\Snake090220\\Snake090220\\obj\\",
+        "outputPath": "C:\\Users\\Haki_17\\Documents\\си\\Snake090220\\Snake090220.git\\Snake090220\\Snake090220\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Haki_17\\AppData\\Roaming\\NuGet\\NuGet.Config",

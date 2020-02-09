@@ -1,0 +1,3 @@
+C:\Users\Haki_17\Documents\си\Snake090220\Snake090220.git\Snake090220\Snake090220\obj\Debug\netcoreapp3.0\Snake090220.csprojAssemblyReference.cache
+C:\Users\Haki_17\Documents\си\Snake090220\Snake090220.git\Snake090220\Snake090220\obj\Debug\netcoreapp3.0\Snake090220.AssemblyInfoInputs.cache
+C:\Users\Haki_17\Documents\си\Snake090220\Snake090220.git\Snake090220\Snake090220\obj\Debug\netcoreapp3.0\Snake090220.AssemblyInfo.cs
